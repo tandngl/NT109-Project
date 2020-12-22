@@ -1,6 +1,4 @@
-# NT109.K21 - Lập trình ứng dụng mạng
-
-**Xây dựng website bán sách online**
+# Online Book Store Website
 
 ©️  
 Contributed by Group 25  
